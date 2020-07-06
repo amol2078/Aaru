@@ -1,0 +1,62 @@
+.house_img{
+  width: 100%
+}
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.favimg{
+  width: 80%;
+  border-radius: 100%;
+  padding: 3% 3%
+}
+
+#My-Favourites{
+  text-align: center;
+  padding: 10% 15%;
+}
+h1{
+  padding: 5% 5%;
+  font-family: sans-serif;
+  line-height: 1.5;
+
+}
+h3{
+  padding: 3% 5%;
+  font-size: 30px;
+  font-weight: bold;
+}
+#My-Family{
+  padding: 3% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  position: relative;
+  }
+.fam-img{
+  width: 30%;
+  border-radius: 100%;
+}
+.navbar-brand{
+  font-family: Yellowtail;
+  font-size: 50px;
+  line-height: 1.5;
+}
+.Famtitle{
+  font-family: Yellowtail;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 1.5;
+}
+.Fampara{
+  font-family: sans-serif;
+  font-size: 20px;
+
+  }
+#footer{
+  text-align: center;
+  padding: 5%
+}
